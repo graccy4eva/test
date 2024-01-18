@@ -1,0 +1,62 @@
+food_category,food_name,n
+Bakery,Whole wheat bread,27
+Bakery,Whole-grain toast,4
+Bakery,Whole-wheat toast,1
+Bakery,Whole wheat crackers,1
+Rice and Grains,Quinoa (cooked),24
+Rice and Grains,"Brown Rice (cooked, steamed)",21
+Beans and Legumes,Hummus,6
+Fruits and Vegetables,"Blueberries (fresh, sliced)",7
+Fruits and Vegetables,Mixed green salad,4
+Fruits and Vegetables,"Strawberries (fresh, diced, sliced",6
+Fruits and Vegetables,"Carrot (whole, diced, sticks, steamed)",36
+Fruits and Vegetables,"Cucumber (sliced, whole, diced, sticks)",69
+Fruits and Vegetables,Green beans (steamed),10
+Fruits and Vegetables,"Tomato (cherry, sliced,diced,",80
+Fruits and Vegetables,Asparagus (steamed),4
+Fruits and Vegetables,"Sweet Potato (small, baked)",3
+Fruits and Vegetables,"Berries (fresh, mixed)",38
+Fruits and Vegetables,"Banana (sliced, diced, small, medium)",16
+Fruits and Vegetables,"Bell pepper (sliced, steamed,",16
+Fruits and Vegetables,"Cauliflower (steamed, sliced)",9
+Fruits and Vegetables,Raspberries,1
+Fruits and Vegetables,"Apple (small, medium",36
+Fruits and Vegetables,Grapefruits (fresh),2
+Fruits and Vegetables,"Celery (sliced, diced",10
+Fruits and Vegetables,"Broccoli (steamed, fresh",33
+Fruits and Vegetables,"Orange (small, medium, fresh",28
+Fruits and Vegetables,Onions,5
+Fruits and Vegetables,Lettuce,18
+Fruits and Vegetables,"Zucchini (grilled, fresh, sliced",6
+Dairy and Milk,Skim milk,13
+Dairy and Milk,Low-fat Greek Yogurt,18
+Eggs,Scrambled Egg whites,21
+Beverages and Juice,Green tea,6
+Beverages and Juice,Unsweetened Iced Tea,10
+Beverages and Juice,Herbal Tea,17
+Beverages and Juice,Black Coffee,15
+Beverages and Juice,Orange Juice,2
+Meat and Fish,"Chicken Breast (baked, grilled)",31
+Meat and Fish,"Turkey Breast (baked, grilled)",16
+Meat and Fish,"White Fish (grilled,",1
+Meat and Fish,"Salmon (baked, grilled)",21
+Meat and Fish,Cod (baked),17
+Meat and Fish,Fish (baked),3
+Meat and Fish,Tuna in water (canned),1
+Meat and Fish,Tilapia (baked),12
+Nuts,Almonds,2
+Water,Water with Lemon,1
+Water,Plain Water,2
+Salad Dressing,Balsamic Vinegar,20
+Salad Dressing,Low-fat Vinaigrette,10
+Salad Dressing,Low-fat Mayonnaise,1
+Salad Dressing,Low-fat Italian Dressing,9
+Salad Dressing,Lemon Juice,2
+"Spreads, Vegetable and Cooking oils",Low-fat cooking spray,19
+"Spreads, Vegetable and Cooking oils",Almond butter,11
+"Spreads, Vegetable and Cooking oils",Mustard,15
+"Spreads, Vegetable and Cooking oils",Low-fat Cream Cheese,18
+Snacks,Low-fat Greek Yogurt,25
+Snacks,Almonds,19
+Cereal,Whole-grain Cereal,3
+Cereal,Oatmeal,11
