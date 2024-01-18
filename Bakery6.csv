@@ -1,0 +1,9 @@
+Food_category,food_name,n,tf,  idf    ,  tf_idf
+rice and grains,quinoa (cooked) ,24,0.533333333,2.639057,1.407497242
+rice and grains,"brown rice (cooked, steamed) ",21,0.466666667,2.639057,1.231560087
+salad dressing,mustard ,15,0.238095238,2.639057,0.628346983
+salad dressing,balsamic vinegar ,20,0.476190476,8  2.639057 ,1.256693966
+salad dressing,low-fat vinaigrette,10,0.238095238,2.639057,0.628346983
+salad dressing,low-fat italian dressing ,9,0.214285714,2.639057,0.565512285
+salad dressing,lemon juice ,2,0.047619048,2.639057,0.125669397
+salad dressing,low-fat mayonnaise  ,1,0.023809524,2.639057,0.062834698
