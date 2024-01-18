@@ -1,0 +1,8 @@
+Food_category,food_name,n,tf,  idf    ,  tf_idf
+snacks,low-fat greek yogurt ,25,0.568181818,1.94591,1.105630767
+snacks,almonds ,19,0.431818182,1.94591,0.840279383
+"spreads, vegetable and cooking oils",low-fat cooking spray ,19,0.301587302,2.639057,0.795906179
+"spreads, vegetable and cooking oils",low-fat cream cheese ,18,0.285714286,2.639057,0.75401638
+"spreads, vegetable and cooking oils", almond butter ,11,0.174603175,2.639057,0.460787788
+water, plain water  ,2,0.666666667,2.639057,1.759371553
+water,water with lemon  ,1,0.333333333,2.639057,0.879685777

@@ -1,0 +1,6 @@
+Food_category,food_name,n,tf,  idf    ,  tf_idf
+cereal,oatmeal ,11,0.785714286,2.639057,2.073545045
+cereal,whole-grain cereal ,3,0.214285714,2.639057,0.565512285
+dairy and milk,skim milk ,13,0.419354839,2.639057,1.106701461
+dairy and milk, low-fat greek yogurt,18,0.580645161,1.94591,1.129883312
+eggs,scrambled egg whites,21,1,2.639057,2.63905733

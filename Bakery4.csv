@@ -1,0 +1,18 @@
+Food_category,food_name,n,tf,  idf    ,  tf_idf
+meat and fish,"chicken breast (baked, grilled)",31,0.303921569,2.639057,0.802066443
+meat and fish,"salmon (baked, grilled)",21,0.205882353,2.639057,0.543335333
+meat and fish,cod (baked) ,17,0.166666667,2.639057,0.439842888
+meat and fish,"turkey breast (baked, grilled) ",16,0.156862745,2.639057,0.413969777
+meat and fish,tilapia (baked),12,0.117647059,2.639057,0.310477333
+meat and fish,fish (baked) ,3,0.029411765,2.639057,0.077619333
+meat and fish,white fish (grilled),1,0.009803922,2.639057,0.025873111
+meat and fish,tuna in water (canned)  ,1,0.009803922,2.639057,0.025873111
+nuts,almonds  ,2,1,1.94591,1.945910149
+rice and grains,quinoa (cooked) ,24,0.533333333,2.639057,1.407497242
+rice and grains,"brown rice (cooked, steamed) ",21,0.466666667,2.639057,1.231560087
+salad dressing,mustard ,15,0.238095238,2.639057,0.628346983
+salad dressing,balsamic vinegar ,20,0.476190476,8  2.639057 ,1.256693966
+salad dressing,low-fat vinaigrette,10,0.238095238,2.639057,0.628346983
+salad dressing,low-fat italian dressing ,9,0.214285714,2.639057,0.565512285
+salad dressing,lemon juice ,2,0.047619048,2.639057,0.125669397
+salad dressing,low-fat mayonnaise  ,1,0.023809524,2.639057,0.062834698
