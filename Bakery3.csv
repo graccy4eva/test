@@ -1,0 +1,23 @@
+Food_category,food_name,n,tf,  idf    ,  tf_idf
+fruits and vegetables,"tomato (cherry, sliced,diced)",80,0.183066362,2.639057,0.483122623
+fruits and vegetables,"cucumber (sliced, whole, diced, sticks)",69,0.157894737,2.639057,0.416693263
+fruits and vegetables,"berries (fresh, mixed) ",38,0.086956522,2.639057,0.229483246
+fruits and vegetables,"carrot (whole, diced, sticks, steamed) ",36,0.082379863,2.639057,0.21740518
+fruits and vegetables,"apple (small, medium)",36,0.082379863,2.639057,0.21740518
+fruits and vegetables,"broccoli (steamed, fresh)",33,0.075514874,2.639057,0.199288082
+fruits and vegetables,"orange (small, medium, fresh)",28,0.064073227,2.639057,0.169092918
+fruits and vegetables,lettuce ,18,0.041189931,2.639057,0.10870259
+fruits and vegetables,"banana (sliced, diced, small, medium) ",16,0.036613272,2.639057,0.096624525
+fruits and vegetables,"bell pepper (sliced, steamed)",16,0.036613272,2.639057,0.096624525
+fruits and vegetables,green beans (steamed) ,10,0.022883295,2.639057,0.060390328
+fruits and vegetables,"celery (sliced, diced)",10,0.022883295,2.639057,0.060390328
+fruits and vegetables,"cauliflower (steamed, sliced)",9,0.020594966,2.639057,0.054351295
+fruits and vegetables,"blueberries (fresh, sliced)  ",7,0.016018307,2.639057,0.04227323
+fruits and vegetables,"strawberries (fresh, diced, sliced) ",6,0.013729977,2.639057,0.036234197
+fruits and vegetables,"zucchini (grilled, fresh, sliced)",6,0.013729977,2.639057,0.036234197
+fruits and vegetables,onions  ,5,0.011441648,2.639057,0.030195164
+fruits and vegetables, mixed green salad ,4,0.009153318,2.639057,0.024156131
+fruits and vegetables,asparagus (steamed) ,4,0.009153318,2.639057,0.024156131
+fruits and vegetables,"sweet potato (small, baked)  ",3,0.006864989,2.639057,0.018117098
+fruits and vegetables, grapefruits (fresh)  ,2,0.004576659,2.639057,0.012078066
+fruits and vegetables,raspberries ,1,0.00228833,2.639057,0.006039033
