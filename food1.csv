@@ -1,0 +1,5 @@
+Food_category,food_name,n,tf,  idf    ,  tf_idf
+bakery,whole wheat bread ,27,0.818181818,2.639057,2.159228724
+bakery,whole-grain toast  ,4,0.121212121,2.639057,0.319885737
+bakery,whole-wheat toast  ,1,0.03030303,2.639057,0.079971434
+bakery,whole wheat crackers  ,1,0.03030303,2.639057,0.079971434

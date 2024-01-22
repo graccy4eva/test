@@ -1,0 +1,6 @@
+Food_category,food_name,n,tf,  idf    ,  tf_idf
+beverages and juice,herbal tea ,17,0.34,2.639057,0.897279492
+beverages and juice,black coffee ,15,0.3,2.639057,0.791717199
+beverages and juice,unsweetened iced tea ,10,0.2,2.639057,0.527811466
+beverages and juice,green tea  ,6,0.12,2.639057,0.31668688
+beverages and juice, orange juice  ,2,0.04,2.639057,0.105562293
