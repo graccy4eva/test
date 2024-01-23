@@ -1,0 +1,4 @@
+Food_category,food_name,n,tf,  idf    ,  tf_idf
+"spreads, vegetable and cooking oils",low-fat cooking spray ,19,0.301587302,2.639057,0.795906179
+"spreads, vegetable and cooking oils",low-fat cream cheese ,18,0.285714286,2.639057,0.75401638
+"spreads, vegetable and cooking oils", almond butter ,11,0.174603175,2.639057,0.460787788

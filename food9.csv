@@ -1,0 +1,3 @@
+Food_category,food_name,n,tf,  idf    ,  tf_idf
+snacks,low-fat greek yogurt ,25,0.568181818,1.94591,1.105630767
+snacks,almonds ,19,0.431818182,1.94591,0.840279383
