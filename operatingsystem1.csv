@@ -1,0 +1,75 @@
+Category,Words,n
+YouTube,process(es),237
+YouTube,"scheduling(le,ler)",79
+YouTube,quantum,54
+YouTube,queue,37
+YouTube,"preempt(ive, ly, ion)",36
+YouTube,time slice(ing),29
+YouTube,service,28
+YouTube,fcfs,24
+YouTube,bound processes,20
+YouTube,ready,19
+YouTube,processor,16
+YouTube,round-robin,15
+YouTube,io,13
+YouTube,decision,13
+YouTube,policy(ies),13
+YouTube,running,11
+YouTube,arrival,11
+YouTube,block(s),10
+YouTube,cpu,9
+YouTube,fair,9
+YouTube,interrupt,8
+YouTube,auxilary,8
+YouTube,performance,7
+YouTube,turnaround,7
+YouTube,operating systems,6
+YouTube,response time,6
+YouTube,shortest process next,6
+YouTube,virtual,6
+YouTube,memory,5
+YouTube,execution time,5
+YouTube,shortest remaining time,4
+YouTube,job,4
+YouTube,burst time,4
+YouTube,arrival time,4
+YouTube,"program(s,mer)",4
+YouTube,dispatch(er),4
+YouTube,nonpreemptive,3
+YouTube,algorithm(s),2
+YouTube,resource,2
+YouTube,feedback,2
+YouTube,state,2
+YouTube,fifo,2
+YouTube,starvation,2
+YouTube,idle,2
+YouTube,hrrn,2
+YouTube,throughput,1
+YouTube,waiting time,1
+YouTube,timeout,1
+YouTube,time-sharing,1
+ChatGPT,"scheduling(le,ler)",59
+ChatGPT,process(es),55
+ChatGPT,turnaround,44
+ChatGPT,algorithm(s),20
+ChatGPT,performance,16
+ChatGPT,queue,16
+ChatGPT,fcfs,15
+ChatGPT,policy(ies),12
+ChatGPT,burst time,12
+ChatGPT,operating systems,11
+ChatGPT,ready,10
+ChatGPT,arrival time,10
+ChatGPT,priority,6
+ChatGPT,quantum,6
+ChatGPT,CPU,5
+ChatGPT,dispatch(er),4
+ChatGPT,round robin,4
+ChatGPT,completion time,4
+ChatGPT,execution time,4
+ChatGPT,sjf,2
+ChatGPT,sjn,2
+ChatGPT,cycle,2
+ChatGPT,time slice,2
+ChatGPT,fair,2
+ChatGPT,critical,2
