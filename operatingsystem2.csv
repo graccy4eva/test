@@ -1,0 +1,95 @@
+Category,Words,n
+YouTube,system(s),177
+YouTube,computer(s),104
+YouTube,memory,68
+YouTube,memory,68
+YouTube,process,54
+YouTube,program(s),50
+YouTube,cpu,48
+YouTube,hardware,37
+YouTube,job(s),34
+YouTube,software,29
+YouTube,output,29
+YouTube,device(s),26
+YouTube,data,26
+YouTube,tape,26
+YouTube,input,20
+YouTube,card readers,20
+YouTube,management,20
+YouTube,efficiency(t),18
+YouTube,main memory,17
+YouTube,printer,17
+YouTube,register,17
+YouTube,disk,17
+YouTube,resources,15
+YouTube,interrupts,15
+YouTube,punch card,11
+YouTube,magnetic storage,11
+YouTube,satellite,8
+YouTube,storage,8
+YouTube,spooling,6
+YouTube,commands,6
+YouTube,service,5
+YouTube,allocation,5
+YouTube,unix,5
+YouTube,kernels,5
+YouTube,data processing,4
+YouTube,programmer,4
+YouTube,linux,4
+YouTube,task(s),4
+YouTube,multi-programming,4
+YouTube,kilobyte,3
+YouTube,bit,3
+YouTube,magnetic drum,2
+YouTube,virtual machines,2
+YouTube,concurrent,2
+YouTube,preemption,2
+YouTube,clock,2
+YouTube,deadlock,1
+YouTube,microsoft,1
+ChatGPT,system(s),43
+ChatGPT,programs,31
+ChatGPT,memory,26
+ChatGPT,algorithms,23
+ChatGPT,computer(s),19
+ChatGPT,hardware,19
+ChatGPT,software,17
+ChatGPT,scheduling,16
+ChatGPT,device(s),16
+ChatGPT,process,16
+ChatGPT,management,14
+ChatGPT,data,14
+ChatGPT,resource(s),11
+ChatGPT,kernel,11
+ChatGPT,security,10
+ChatGPT,cpu,10
+ChatGPT,shell,10
+ChatGPT,input,8
+ChatGPT,printer,8
+ChatGPT,cloud,8
+ChatGPT,output,6
+ChatGPT,application(s),6
+ChatGPT,phone,6
+ChatGPT,allocation,4
+ChatGPT,keyboard,4
+ChatGPT,android,4
+ChatGPT,iOS,4
+ChatGPT,round robin,4
+ChatGPT,virtual memory,4
+ChatGPT,scability,4
+ChatGPT,mobile,4
+ChatGPT,deallocation,2
+ChatGPT,mice,2
+ChatGPT,command-line,2
+ChatGPT,fcfs,2
+ChatGPT,sjf,2
+ChatGPT,sjn,2
+ChatGPT,priority,2
+ChatGPT,paging,2
+ChatGPT,physical memory,2
+ChatGPT,execution,2
+ChatGPT,monitor(s),2
+ChatGPT,internet of things,2
+ChatGPT,complexity,2
+ChatGPT,reliability,2
+ChatGPT,ram,1
